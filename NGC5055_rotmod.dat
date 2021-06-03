@@ -1,6 +1,4 @@
-# Distance = 9.9 Mpc
-# Rad	Vobs	errV	Vgas	Vdisk	Vbul	SBdisk	SBbul		
-# kpc	km/s	km/s	km/s	km/s	km/s	L/pc^2	L/pc^2
+Rad(kpc)	Vobs(km/s)	errV(km/s)	Vgas(km/s)	Vdisk(km/s)	Vbul(km/s)	SBdisk(L/pc^2)	SBbul(L/pc^2)		
 0.72	125.00	17.60	2.20	201.48	0.00	4079.93	0.00
 1.43	162.00	8.50	3.72	240.13	0.00	2087.92	0.00
 2.16	178.00	5.22	4.09	263.27	0.00	1497.11	0.00
